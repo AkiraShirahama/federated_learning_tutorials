@@ -18,8 +18,13 @@ pip install tensorflow
 '''
 
 ### How to use
-execute the commands on other terminals.  
-The python codes are modified to save trained models and show evaluation results after aggregation.
+以下のコマンドを異なるターミナルを立ち上げて実行する。  
+なお本サンプルは公式チュートリアルから変更している。  
+
+■変更点
+- データをCIFER10->MNISTに変更
+- モデルのチェックポイント作成
+- チェックポイントを用いて初期パラメータを更新
 
 '''
 (terminal1) python federated_learning_tutorials/server.py
