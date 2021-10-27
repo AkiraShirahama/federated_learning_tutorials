@@ -4,7 +4,7 @@
 - Pysyftはサンプルを一旦動かせたものの、具体的に異なるロケーションにあるクライアントをどのように使うのかがイメージできなかった。
 - Tensorflow_Federeatedはチュートリアルに色んな観点をしっかり書いてくれているが日本語訳が分かりにくい。
 
-## Flower
+## Flower(https://flower.dev/)
 ### Source Code
 - federated_learning_tutorial/flower/client.py
 - federated_learning_tutorial/flower/server.py  
@@ -33,7 +33,7 @@ pip install tensorflow
 ### Reference
 - https://flower.dev/docs/quickstart_tensorflow.html
 
-## Pysyft
+## Pysyft(https://github.com/OpenMined/PySyft)
 ### Source Code
 - federated_learning_tutorial/pysyft/pysyft_federated_learning_tutorial.ipynb
 
@@ -43,7 +43,7 @@ pip install tensorflow
 - https://panhouse.blog/paper/implementation/classify_mnist_using_pysyft/
 - https://blog.openmined.org/upgrade-to-federated-learning-in-10-lines/
 
-## Tensorflow Federated
+## Tensorflow Federated(https://www.tensorflow.org/federated?hl=ja)
 ### Source Code
 - federated_learning_tutorial/pysyft/tf_federated_learning_for_image_classification.ipynb
 - 
