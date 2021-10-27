@@ -46,7 +46,6 @@ pip install tensorflow
 ## Tensorflow Federated(https://www.tensorflow.org/federated?hl=ja)
 ### Source Code
 - federated_learning_tutorial/pysyft/tf_federated_learning_for_image_classification.ipynb
-- 
 ### Environment
 - [Google Colab](https://colab.research.google.com/notebooks/welcome.ipynb)
 ### Reference
