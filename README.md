@@ -1,14 +1,4 @@
 # Federated Learning Framework samples
-触ってみたフレームワーク  
-- flower
-- pysyft
-- tensorflow federated
-
-## 3つのフレームワークを利用した感想
-- 一番分かりやすいと感じたのは「Flower」であった。チュートリアルに沿ってコードを作成し実行するだけでも連合学習の概要を理解しやすい。とりあえず連合学習に触れたいという人はFlowerを触ってみることをお勧めします。
-- Pysyftはサンプルを一旦動かせたものの、具体的に異なるロケーションにあるデバイス上でどのように動いていくのか？が分からなかった。
-- Tensorflow_Federeatedはチュートリアルに色んな観点をしっかり書いてくれているが日本語訳が分かりにくい。Pysyftも同様に異なるロケーションにあるデバイスで実際に学習させたい場合の実装方法が分からなかった。
-
 ## Flower(https://flower.dev/)
 ### Source Code
 - federated_learning_tutorial/flower/client.py
